@@ -3,7 +3,7 @@
     {
       "columns": 15,
       "firstgid": 1,
-      "image": "map-chunk-1-bf738c3e.png",
+      "image": "map-chunk-1-f76fbd7a.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
@@ -33,10 +33,24 @@
           "id": 127
         },
         {
-          "id": 203
+          "id": 203,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
         },
         {
-          "id": 204
+          "id": 204,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
         }
       ]
     }
@@ -2358,10 +2372,21 @@
           ],
           "height": 48,
           "id": 2,
-          "name": "floor",
+          "name": "floorLayer",
           "opacity": 1,
           "visible": true,
           "width": 48,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "type": "objectgroup",
+          "draworder": "topdown",
+          "id": 12,
+          "name": "floorLayer",
+          "objects": [],
+          "opacity": 1,
+          "visible": true,
           "x": 0,
           "y": 0
         },
@@ -16291,7 +16316,7 @@
   "compressionlevel": -1,
   "height": 48,
   "infinite": false,
-  "nextlayerid": 11,
+  "nextlayerid": 13,
   "nextobjectid": 1,
   "orientation": "orthogonal",
   "renderorder": "right-down",
