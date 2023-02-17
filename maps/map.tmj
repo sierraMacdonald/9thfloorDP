@@ -3,7 +3,7 @@
     {
       "columns": 15,
       "firstgid": 1,
-      "image": "map-chunk-1-8ad91ab4.png",
+      "image": "map-chunk-1-c943b526.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
@@ -14782,9 +14782,9 @@
         0,
         0,
         0,
-        0,
-        0,
-        0,
+        208,
+        208,
+        208,
         0,
         0,
         208,
@@ -16293,6 +16293,7 @@
     },
     {
       "type": "objectgroup",
+      "class": "area",
       "draworder": "topdown",
       "id": 15,
       "name": "games",
@@ -16332,6 +16333,28 @@
         }
       ],
       "opacity": 1,
+      "properties": [
+        {
+          "name": "openWebsiteTrigger",
+          "type": "string",
+          "value": "onaction"
+        },
+        {
+          "name": "openWebsiteTriggerMessage",
+          "type": "string",
+          "value": "Press on SPACE to open the web site"
+        },
+        {
+          "name": "policy",
+          "type": "string",
+          "value": "fullscreen"
+        },
+        {
+          "name": "url",
+          "type": "string",
+          "value": "https://netgames.io/games/onu-werewolf/"
+        }
+      ],
       "visible": false,
       "x": 0,
       "y": 0
