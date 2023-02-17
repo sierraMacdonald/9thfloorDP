@@ -446,7 +446,7 @@
         {
          "columns":76,
          "firstgid":1,
-         "image":"..\/..\/Downloads\/Modern_Interiors_v41.3.3\/1_Interiors\/32x32\/Room_Builder_32x32.png",
+         "image":"..\/tilesets\/Room_Builder_32x32.png",
          "imageheight":3488,
          "imagewidth":2432,
          "margin":0,
@@ -459,7 +459,7 @@
         {
          "columns":16,
          "firstgid":8285,
-         "image":"..\/..\/Downloads\/Modern_Interiors_v41.3.3\/1_Interiors\/32x32\/Interiors_32x32.png",
+         "image":"..\/tilesets\/Interiors_32x32.png",
          "imageheight":34048,
          "imagewidth":512,
          "margin":0,
@@ -472,7 +472,7 @@
         {
          "columns":16,
          "firstgid":25309,
-         "image":"..\/..\/Downloads\/Modern_Office_Revamped_v1.1\/Modern_Office_Revamped\/1_Room_Builder_Office\/Room_Builder_Office_32x32.png",
+         "image":"..\/tilesets\/Room_Builder_Office_32x32.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -485,7 +485,7 @@
         {
          "columns":16,
          "firstgid":25533,
-         "image":"..\/..\/Downloads\/Modern_Office_Revamped_v1.1\/Modern_Office_Revamped\/Modern_Office_32x32.png",
+         "image":"..\/tilesets\/Modern_Office_32x32.png",
          "imageheight":1696,
          "imagewidth":512,
          "margin":0,
