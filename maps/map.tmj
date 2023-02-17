@@ -3,7 +3,7 @@
     {
       "columns": 15,
       "firstgid": 1,
-      "image": "map-chunk-1-e90deb5b.png",
+      "image": "map-chunk-1-e90226e9.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
@@ -16286,7 +16286,7 @@
       "id": 13,
       "name": "collidable",
       "opacity": 1,
-      "visible": true,
+      "visible": false,
       "width": 48,
       "x": 0,
       "y": 0
@@ -16298,7 +16298,7 @@
       "name": "games",
       "objects": [
         {
-          "class": "",
+          "class": "area",
           "height": 155,
           "id": 2,
           "name": "",
