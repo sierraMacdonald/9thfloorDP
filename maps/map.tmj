@@ -450,6 +450,11 @@
                  "name":"",
                  "properties":[
                         {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/netgames.io\/games\/onu-werewolf\/"
+                        }, 
+                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -463,11 +468,6 @@
                          "name":"policy",
                          "type":"string",
                          "value":"fullscreen"
-                        }, 
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"https:\/\/netgames.io\/games\/onu-werewolf\/"
                         }],
                  "rotation":0,
                  "visible":false,
@@ -477,6 +477,11 @@
                 }],
          "opacity":1,
          "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/netgames.io\/games\/onu-werewolf\/"
+                }, 
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
@@ -491,11 +496,6 @@
                  "name":"policy",
                  "type":"string",
                  "value":"fullscreen"
-                }, 
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"https:\/\/netgames.io\/games\/onu-werewolf\/"
                 }],
          "type":"objectgroup",
          "visible":false,
