@@ -3,7 +3,7 @@
     {
       "columns": 15,
       "firstgid": 1,
-      "image": "map-chunk-1-1518407a.png",
+      "image": "map-chunk-1-3945c55d.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
@@ -2374,7 +2374,100 @@
           "draworder": "topdown",
           "id": 12,
           "name": "floorLayer",
-          "objects": [],
+          "objects": [
+            {
+              "class": "area",
+              "height": 193.333333333333,
+              "id": 7,
+              "name": "chatZone",
+              "properties": [
+                {
+                  "name": "chatDescription",
+                  "type": "string",
+                  "value": "Meeting room"
+                },
+                {
+                  "name": "chatName",
+                  "type": "string",
+                  "value": "office3"
+                }
+              ],
+              "rotation": 0,
+              "visible": true,
+              "width": 164,
+              "x": 566.666666666667,
+              "y": 386.666666666667
+            },
+            {
+              "class": "area",
+              "height": 194.666666666667,
+              "id": 8,
+              "name": "chatZone",
+              "properties": [
+                {
+                  "name": "chatDescription",
+                  "type": "string",
+                  "value": "Meeting room"
+                },
+                {
+                  "name": "chatName",
+                  "type": "string",
+                  "value": "office2"
+                }
+              ],
+              "rotation": 0,
+              "visible": true,
+              "width": 157.333333333333,
+              "x": 408,
+              "y": 385.333333333333
+            },
+            {
+              "class": "area",
+              "height": 196,
+              "id": 9,
+              "name": "chatZone",
+              "properties": [
+                {
+                  "name": "chatDescription",
+                  "type": "string",
+                  "value": "Meeting room"
+                },
+                {
+                  "name": "chatName",
+                  "type": "string",
+                  "value": "office1"
+                }
+              ],
+              "rotation": 0,
+              "visible": true,
+              "width": 178.666666666667,
+              "x": 226.666666666667,
+              "y": 384
+            },
+            {
+              "class": "area",
+              "height": 257.333333333333,
+              "id": 10,
+              "name": "chatZone",
+              "properties": [
+                {
+                  "name": "chatDescription",
+                  "type": "string",
+                  "value": "Meeting room"
+                },
+                {
+                  "name": "chatName",
+                  "type": "string",
+                  "value": "9b200"
+                }
+              ],
+              "rotation": 0,
+              "visible": true,
+              "width": 401.333333333333,
+              "x": 966.666666666667,
+              "y": 997.333333333333
+            }
+          ],
           "opacity": 1,
           "visible": true,
           "x": 0,
@@ -16363,8 +16456,8 @@
   "compressionlevel": -1,
   "height": 48,
   "infinite": false,
-  "nextlayerid": 16,
-  "nextobjectid": 3,
+  "nextlayerid": 17,
+  "nextobjectid": 12,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tiledversion": "1.9.2",
