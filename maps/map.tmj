@@ -432,7 +432,7 @@
          "name":"collidable",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":48,
          "x":0,
          "y":0
@@ -443,7 +443,7 @@
          "name":"games",
          "objects":[
                 {
-                 "class":"",
+                 "class":"area",
                  "height":155,
                  "id":2,
                  "name":"",
